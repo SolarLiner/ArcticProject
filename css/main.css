@@ -80,7 +80,7 @@ a:after {
 }
 
 .header-text {
-	color: #3498db;
+	color: #FFFFFF;
     word-wrap: break-word;
 }
 
@@ -180,4 +180,8 @@ pre, code {
 
 .justify {
 	text-align: justify;
+}
+
+.carousel {
+	height: 315px;
 }
